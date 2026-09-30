@@ -389,6 +389,7 @@ Dépôt d'un fichier de test **EICAR** dans un dossier surveillé → le FIM dé
 | **Robinson Diallo** | Responsable MOA |
 | **Nathan Favry** | Responsable technique |
 | **Anaïs Djenadi** | Gouvernance & Communication |
+| **Noor Fadlane** | Risques, Budget, Qualité & Documentation |
 
 **Commanditaire :** RSSI d'une PME cliente (fictive) · **Sponsor :** Direction générale · **Soutenance :** 9 juillet 2026
 
